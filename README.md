@@ -23,6 +23,11 @@ streamlit run app.py
 ```
 
 For Ollama ChatBot:
+Install Ollama application in your machine
+Open command prompt
+```
+ollama run model_name (eg: gemma2,mistral check: https://ollama.com/library for more info)
+```
 ```
 cd OllamaChatBot
 ```
