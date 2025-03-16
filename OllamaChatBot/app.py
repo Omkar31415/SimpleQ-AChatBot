@@ -31,7 +31,7 @@ def generate_response(question,engine):
 st.title("Enhanced Q&A Chatbot With Ollama")
 
 ## Select the OpenAI model
-engine=st.sidebar.selectbox("Select Open Source model",["mistral",'gemma2'])
+engine=st.sidebar.selectbox("Select Open Source model",["mistral",'gemma2','gemma:2b'])
 
 ## Main interface for user input
 st.write("Go ahead and ask any question!")
