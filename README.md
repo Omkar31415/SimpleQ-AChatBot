@@ -34,3 +34,11 @@ cd OllamaChatBot
 ```
 streamlit run app.py
 ```
+
+For RAG Document Q-A: Make sure to add your desired research paper pdf document to 'research_papers' folder
+```
+cd RAG Document Q-A
+```
+```
+streamlit run app.py
+```

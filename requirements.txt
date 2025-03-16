@@ -4,3 +4,7 @@ python-dotenv
 langchain-community
 streamlit
 openai
+langchain-groq
+langchain_huggingface
+pypdf
+faiss-cpu
